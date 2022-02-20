@@ -4,3 +4,4 @@ torchvision==0.9.1+cpu
 fastai==2.5.3
 voila
 ipywidgets
+gdown==4.3.1
